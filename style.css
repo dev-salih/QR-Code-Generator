@@ -17,3 +17,9 @@ body{
     background: #fff;
     border-radius: 10px;
 }
+.container p{
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 8px;
+    
+}
